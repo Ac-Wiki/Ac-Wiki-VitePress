@@ -55,7 +55,7 @@ onMounted(() => {
     () => {
       // 等待页面切换完成
       setTimeout(loadGiscus, 500);
-    }
+    },
   );
 });
 </script>

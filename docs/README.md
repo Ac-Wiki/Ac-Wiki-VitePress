@@ -8,6 +8,7 @@
 <div align="center">
 
 [![访问 WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org)
+
 </div>
 </div>
 
@@ -191,7 +192,7 @@
 
 ## ⏳ 待补充
 
-*更多内容正在筹备中，欢迎加入共建！*
+_更多内容正在筹备中，欢迎加入共建！_
 
 [![提出内容建议](https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi/issues/new)
 
@@ -210,37 +211,47 @@
 我们向以下优秀的高校课程资源共享项目致敬，他们的开源精神与知识共享理念为本项目提供了重要参考：
 
 ### 北京大学
+
 [![贵校课程](https://img.shields.io/static/v1?label=&message=贵校课程&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/lib-pku/libpku)
 [![气垫船](https://img.shields.io/static/v1?label=&message=气垫船&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinwu42/project-hover)
 [![信科资料](https://img.shields.io/static/v1?label=&message=信科资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
 [![大作业](https://img.shields.io/static/v1?label=&message=大作业&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongtzeho/PKUCourse)
 
 ### 清华大学
+
 [![计算机](https://img.shields.io/static/v1?label=&message=计算机&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 ### 浙江大学
+
 [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=ea4335&style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSCTech/zju-icicles)
 
 ### 中国科学技术大学
+
 [![计算机](https://img.shields.io/static/v1?label=&message=计算机&color=fbbc05&style=for-the-badge&logo=github&logoColor=white)](https://github.com/USTC-Resource/USTC-Course)
 
 ### 上海交通大学
+
 [![课程资料](https://img.shields.io/static/v1?label=&message=课程资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoolPhilChen/SJTU-Courses/)
 [![生存手册](https://img.shields.io/static/v1?label=&message=生存手册&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurviveSJTU/SurviveSJTUManual)
 
 ### 南京大学
+
 [![复习资料](https://img.shields.io/static/v1?label=&message=复习资料&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/idealclover/NJU-Review-Materials)
 
 ### 东南大学
+
 [![课程共享](https://img.shields.io/static/v1?label=&message=课程共享&color=ea4335&style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjdx1998/seucourseshare)
 
 ### 中山大学
+
 [![课程资料](https://img.shields.io/static/v1?label=&message=课程资料&color=fbbc05&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sysuexam/SYSU-Exam)
 
 ### 郑州大学
+
 [![复习资料](https://img.shields.io/static/v1?label=&message=复习资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CooperNiu/ZZU-Courses-Resource)
 
 ### 广东工业大学
+
 [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenner8023/gdut-course)
 
 <div style="position: relative; height: 60px; margin: 50px 0; text-align: center;">
@@ -261,7 +272,7 @@
 
 ## 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiki 越来越好！ (*´▽｀) ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiki 越来越好！ (\*´▽｀) ノノ
 
 [![贡献者](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)
 
