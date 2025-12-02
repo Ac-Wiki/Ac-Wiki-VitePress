@@ -1,13 +1,8 @@
----
-author: [Ac-Wiki]
----
+???+ info "Wiki"
 
-::: info Wiki
-    Wiki，即维基，通常指维基网站或维基软件，维基本身是一种协同编辑系统，
-    基于 MediaWiki，最早最知名的站点可能是维基百科。
-    本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
+    Wiki，即维基，通常指维基网站或维基软件，维基本身是一种协同编辑系统，基于 MediaWiki，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
+
     分为静态站点、动态站点，以及其他非自建站点三大类，分类内项目以首字母排序，欢迎大家指正或补充～
-:::
 
 # **Wiki**
 
@@ -27,7 +22,9 @@ author: [Ac-Wiki]
 - [https://survivesjtu.github.io/SJTU-Application](https://survivesjtu.github.io/SJTU-Application) 上海交通大学大学飞跃手册，开源，docsify
 - [https://101.lug.ustc.edu.cn/](https://101.lug.ustc.edu.cn/) 中国科学技术大学《Linux 101》在线讲义，开源，MkDocs
 - [https://201.ustclug.org/](https://201.ustclug.org/) 中国科学技术大学《Linux 201》进阶教程，开源，MkDocs
-
+- [https://wiki.cooo.site/](https://wiki.cooo.site/) 西邮 Wiki，西安邮电大学非官方校园生活指南，开源，VitePress
+- [https://cs4ncu.space/](https://cs4ncu.space/) 寻路之南，写给普通人的大学成长指南 (南昌大学)，开源，MkDocs
+- [https://wiki.easy-qfnu.top/](https://wiki.easy-qfnu.top/) 曲奇教务 Wiki（原 Easy-QFNU，曲阜师范大学生活指南），Pandawiki 驱动
 - 欢迎按照类似格式补充～
 
 ## 动态站点
@@ -63,4 +60,3 @@ author: [Ac-Wiki]
 - 交流群组：[t.me/AcFourm](https://t.me/AcFourm)
 
 - 交流频道：[t.me/AcWiki](https://t.me/AcWiki)
-

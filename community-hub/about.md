@@ -25,6 +25,45 @@ Ac-Wiki 是一个由学生自发组织的公益性学术生活百科项目。我
 
 6. 本项目并不局限于此平台，考虑到使用者群体，我们后期会积极建立各式网站，并会迁移已有的更新内容
 
+# 录结构树
+
+
+```markdown
+Ac-Wiki
+├── .vitepress                  # VitePress 核心配置与资源
+│   ├── components              # 自定义 Vue 组件
+│   │   ├── Author.vue          # 作者信息卡片组件
+│   │   ├── BlogIndex.vue       # 博客首页列表组件
+│   │   ├── Timeline.vue        # 更新日志时间轴组件
+│   │   ├── MarkdownEditor.vue  # 在线 Markdown 编辑器
+│   │   └── ...                 # 其他 UI 组件 (Header, Footer, Tip 等)
+│   ├── data                    # 数据源与加载器
+│   │   ├── authors.json        # [新增] 博客作者元数据
+│   │   ├── blog.data.mts       # [新增] 博客文章自动加载器
+│   │   ├── archive.data.mts    # 归档数据加载器
+│   │   └── members.json        # 社区成员数据
+│   ├── theme                   # 主题定制
+│   │   ├── index.ts            # 主题入口 (组件注册、布局插槽)
+│   │   └── style.css           # 全局样式重写
+│   └── config.mts              # 站点主配置文件 (导航、侧边栏、插件)
+├── blog                        # [新增] 博客板块
+│   ├── posts                   # 博客文章存放目录
+│   └── index.md                # 博客首页 (挂载 BlogIndex 组件)
+├── community-hub               # 社区中心
+│   ├── changelog.md            # 更新日志
+│   ├── contributing.md         # 贡献指南
+│   └── ...
+├── campus-life                 # 校园生活文档
+├── academic-resources          # 学术资源文档
+├── general-skills              # 通用技能文档
+├── examples                    # 功能演示与示例
+├── public                      # 静态资源 (图片、图标)
+├── types.d.ts                  # [新增] TypeScript 类型声明 (*.data.mjs)
+├── package.json                # 项目依赖与脚本
+└── index.md                    # 网站首页
+```
+
+
 
 
 ## 技术栈
@@ -51,13 +90,13 @@ Ac-Wiki 是一个由学生自发组织的公益性学术生活百科项目。我
 
 
 <!-- markdownlint-disable-next-line MD033 -->
-<member-list :show-newest-num="9" />
+<!-- <member-list :show-newest-num="9" /> -->
 
 感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiki 越来越好！ (*´▽ ｀) ノノ
 
 #### 仓库贡献者（来自 UNGH）
 
-<!-- 将通过 UNGH API 实时拉取 https://github.com/ac-wiki/ac-wiki 的贡献者列表 -->
+将通过 UNGH API 实时拉取 https://github.com/ac-wiki/ac-wiki 的贡献者列表
 <ContributorList owner="ac-wiki" repo="ac-wiki" />
 
 <!-- markdownlint-disable-next-line MD033 -->

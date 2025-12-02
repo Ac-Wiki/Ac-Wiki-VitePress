@@ -24,6 +24,7 @@ export default defineConfig({
             '/general-skills/': generalSkillsSidebar(),
             '/community-hub/': communityHubSidebar(),
             '/examples/': communityHubSidebar(),
+            '/blog/': blogSidebar(),
             // 默认侧边栏
             '/': AcWikiSidebar(),
         },
@@ -371,5 +372,20 @@ function communityHubSidebar(): DefaultTheme.SidebarItem[] {
                 },
             ],
         },
+    ]
+}
+
+function blogSidebar(): DefaultTheme.SidebarItem[] {
+    return [
+        {
+            text: '博客文章',
+            items: [
+                { text: 'Hello Ac-Wiki!', link: '/blog/posts/hello-ac-wiki' },
+                { text: '计算机科学与技术核心课程介绍与技术脉络', link: '/blog/posts/cs-course-structure' },
+                { text: '脱单技巧', link: '/blog/posts/from-single-to-dating' },
+                { text: '计算机科学与技术专业的几种出路', link: '/blog/posts/future-paths-for-cs-students' },
+                { text: '一些自己在校园生活中的经验', link: '/blog/posts/some-experience-in-school-life' },
+            ]
+        }
     ]
 }

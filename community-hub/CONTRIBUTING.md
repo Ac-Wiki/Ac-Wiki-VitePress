@@ -1,6 +1,3 @@
----
-author: [Ac-Wiki]
----
 # 🤝 加入 Ac-Wiki 共建
 
 欢迎加入 Ac-Wiki！这是一个由学长学姐们共同搭建、一起成长的大学生知识共享圈。我们互相分享学习秘籍、生活攻略、避坑指南，助力彼此更快适应大学节奏，探索属于自己的精彩旅程。**您的经验，也是后来者的光。**
@@ -45,25 +42,13 @@ author: [Ac-Wiki]
 
 1. 克隆项目
 
-   ```bash
-   git clone https://github.com/ac-wiki/ac-wiki.git
-   ```
+2. 启动环境
 
-2. 安装依赖
-
-   ```bash
-   npm install
-   ```
-
-3. 启动环境
-
-   ```bash
-   npm run docs:dev
-   ```
+3. 安装依赖
 
 4. 本地预览
 
-   打开浏览器访问 `http://localhost:5173` 查看页面效果。
+打开浏览器访问 http://127.0.0.1:8000 查看页面效果。
 
 #### ✅ 提交前 Checklist
 

@@ -10,6 +10,7 @@ import './theme-enhanced.css'
 import 'tippy.js/dist/svg-arrow.css'
 
 import Author from '../components/Author.vue'
+import BlogIndex from '../components/BlogIndex.vue'
 import ContributorList from '../components/ContributorList.vue'
 import Dropdown from '../components/Dropdown.vue'
 import Footer from '../components/Footer.vue'
@@ -22,6 +23,7 @@ import Timeline from '../components/Timeline.vue'
 import Tip from '../components/Tip.vue'
 
 const globalComponents = {
+  BlogIndex,
   ContributorList,
   Dropdown,
   Icon,
