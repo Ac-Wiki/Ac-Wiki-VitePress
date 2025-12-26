@@ -241,20 +241,19 @@ function generalSkillsSidebar(): DefaultTheme.SidebarItem[] {
                       { 
                         text: '网络安全',
                         collapsed: true,
-                        link: '/docs/general-skills/cyber-security/',
+                        link: '/docs/general-skills/tools/cyber-security/',
                         items: [
                             { text: '密码管理', link: '/docs/general-skills/tools/cyber-security/password_manage' },
                             { text: '隐私保护', link: '/docs/general-skills/tools/cyber-security/privacy' },
                         ],
                        },
                        { 
-                        text: '奇技淫巧',
+                        text: '生活技巧',
                         collapsed: true,
-                        link: '/docs/general-skills/qi-ji-yin-qiao/',
+                        link: '/docs/general-skills/life-hacks/',
                         items: [
-                            { text: '校园跑', link: '/docs/general-skills/qi-ji-yin-qiao/campus-running' },
-                            { text: '刷课', link: '/docs/general-skills/qi-ji-yin-qiao/pointless-courses' },
-
+                            { text: '校园跑', link: '/docs/general-skills/life-hacks/campus-running' },
+                            { text: '刷课', link: '/docs/general-skills/life-hacks/pointless-courses' },
                         ],
                        },
                   ],
